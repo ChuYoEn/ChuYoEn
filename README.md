@@ -1,0 +1,16 @@
+## Hi 我是朱祐恩👋
+
+<!--
+**ChuYoEn/ChuYoEn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🎤我喜歡唱歌,但我不喜歡唱給別人聽...
+- 🏐覺得防守比攻擊還更有成就感!!
+- ⚾WBC要開打啦!!!好期待!!!
+- 🚘最近學會開車
+- 📫 zhuyoen0818@gmail.com
+- IG:yooo.en__
+
+
+-->
